@@ -1,1 +1,1 @@
-password="akjofimqabducguf"
+password="YOUR PASSWORD HERE"
